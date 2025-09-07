@@ -96,13 +96,26 @@ The 25–34 age group spends the most on average.
 
 UPI and Wallets are the most-used payment methods.
 
+---
+
+## 📊 Power BI Dashboard
+
+This project includes a fully interactive Power BI dashboard that visualizes key sales and customer insights from the SQL analysis.
+
+### 🔍 Key Dashboard Features:
+- Total revenue by store and city
+- Monthly sales trends
+- Best-selling products and categories
+- Customer age group spending analysis
+- Most used payment methods
+- Loyal customer distribution by city
+
 📂 Folder Structure
 
 zudio-retail-sales-sql/
 
 ├── README.md
 ├── analysis_queries.sql
-├── schema_diagram.png  # (optional)
 └── data/
     ├── zudio_sales.csv
     ├── zudio_sales_items.csv
@@ -124,13 +137,3 @@ Thanks to the Zudio-style retail sales structure and analytics KPIs for guiding 
 
 
 ---
-
-✅ You can now **copy and paste** this directly into a `README.md` file on GitHub.
-
-Let me know if you want:
-- A `.sql` file with all 17 queries cleanly formatted  
-- A schema diagram  
-- Sample CSVs  
-- A Power BI/Excel dashboard template  
-
-Just say the word.
