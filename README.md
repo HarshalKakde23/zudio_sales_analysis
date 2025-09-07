@@ -64,7 +64,7 @@ Assumed tables:
 
 - **SQL** (PostgreSQL / MySQL compatible)
 - **Database**: Any SQL-compatible DBMS (e.g., MySQL, PostgreSQL, SQLite)
-- **Optional**: Power BI / Tableau / Excel (for visualization)
+- **for visualization**: Power BI 
 
 ---
 
